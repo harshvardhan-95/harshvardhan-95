@@ -8,7 +8,7 @@
 [TIC TAC TOE](https://harsh-tictactoe.netlify.app/) 
 
 ## :snake: My snake Game Project 
-[![picture alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-f5V7OX76r02zZwvtIs4Qv0XJALmEpPSdfQ&usqp=CAU )](https://harsh-tictactoe.netlify.app/) 
+[![picture alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-f5V7OX76r02zZwvtIs4Qv0XJALmEpPSdfQ&usqp=CAU )](https://harsh-snakegame.netlify.app/) 
 
 [SNAKE GAME](https://harsh-snakegame.netlify.app/)
 
