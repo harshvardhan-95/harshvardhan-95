@@ -2,16 +2,20 @@
 
 # I'm Harshvardhan Patil
 
-### ⚒ My latest Project is [
-Markup : ![picture alt](https://images.app.goo.gl/SaReV8cm9BQ1c2pk7 "TIC TAC TOE  ")](https://harsh-tictactoe.netlify.app/) 
+## :computer: My latest Project is 
+[![picture alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkCnTnxsCr5lCghrWvIX0H4oD9nzGaAYiCPg&usqp=CAU )](https://harsh-tictactoe.netlify.app/) 
+ 
+[TIC TAC TOE](https://harsh-tictactoe.netlify.app/) 
 
-### :snake: My snake Game Project [
-Markup : ![picture alt](https://www.google.com/logos/fnbx/snake_arcade/cta.png "SNAKE GAME  ")](https://harsh-snakegame.netlify.app/)
+## :snake: My snake Game Project 
+[![picture alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-f5V7OX76r02zZwvtIs4Qv0XJALmEpPSdfQ&usqp=CAU )](https://harsh-tictactoe.netlify.app/) 
+
+[SNAKE GAME](https://harsh-snakegame.netlify.app/)
 
 ### 🌱 I’m currently learning / learned
 - **C/C++**
 - **HTML**
-- **CSS*
+- **CSS**
 - **Javascript**
 - **Node.js**
 
